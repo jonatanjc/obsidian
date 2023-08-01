@@ -10,6 +10,7 @@ typescript viene por defecto pero también permite vanilla javascript
 <h2>Node HTTP framework</h2>
 - express 
 - fastify
+- ![[Pasted image 20230801092116.png]]
 
 **controladores**
 vigilantes de los que sale y entra dentro de backend

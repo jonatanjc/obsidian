@@ -11,8 +11,12 @@
             "id": "16e7d548ea45a55b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Conceptos Basicos de Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatOpen IA/ChatOpen IA.md",
+                "file": "obsidian/Conceptos Basicos de Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatOpen IA/ChatOpen IA.md",
+                "file": "obsidian/Conceptos Basicos de Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatOpen IA/ChatOpen IA.md"
+                "file": "obsidian/Conceptos Basicos de Obsidian.md"
               }
             }
           }
@@ -143,26 +147,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "102640aaea53ad6c",
+  "active": "16e7d548ea45a55b",
   "lastOpenFiles": [
+    "Nativos digitales/Inteligencia artificial.md",
+    "imgs/Pasted image 20230801092243.png",
+    "kaggle/Titanic.md",
+    "ChatOpen IA/ChatOpen IA.md",
+    "imgs/Pasted image 20230801092116.png",
     "imgs/Pasted image 20230731000114.png",
     "CASOS DE USO y tipos de IA/Tipos de IA.md",
     "imgs/Pasted image 20230730235945.png",
     "imgs/Pasted image 20230730235929.png",
     "imgs/Pasted image 20230730235909.png",
     "imgs/Pasted image 20230730235844.png",
-    "ChatOpen IA/ChatOpen IA.md",
     "CASOS DE USO y tipos de IA",
-    "Nativos digitales/Inteligencia artificial.md",
     "imgs/Pasted image 20230730235433.png",
     "imgs/Pasted image 20230730235405.png",
     "Nest.js/Nest.js.md",
     "imgs/Pasted image 20230730234942.png",
-    "imgs/Pasted image 20230730234928.png",
-    "imgs/Pasted image 20230730234851.png",
-    "Pasted image 20230730234532.png",
     "Nest.js",
-    "obsidian/README.md",
+    "obsidian/Conceptos Basicos de Obsidian.md",
     "obsidian",
     "teachable machine/Snake machine.md",
     "teachable machine",
@@ -172,7 +176,6 @@
     "kaggle",
     "Untitled 1.md",
     "kaggle.md",
-    "kaggle/Titanic.md",
     "imgs",
     "Python/Python Basico.md",
     "Untitled.canvas",

@@ -46,3 +46,4 @@ La disminución del coeficiente intelectual se ha documentado en países como No
 -------------------------------------------------------------------------------
 <h3>opinion personal</h3>
 Mi opinión sobre los nativos digitales es que la sociedad de los mas jovenes a los mas adultos es que las personas están siendo muy dependientes de las IAS así como del internet, se le hace mas fácil y es mas fácil buscar averiguar en IAs que pensar por uno mismo, los adultos en la actualidad le dan aparatos electrónicos a sus hijos de 3 años lo cual según la investigación disminuye el nivel intelectual de los niños por que en mi opinión los adultos mayores como lo padres deberían prohibir al acceso a aparatos electrónicos a sus hijos incluso aparte de afectar en el nivel intelectual afecta en problemas de la vista problema de concentración y el problema mas grave o mas critico etc.
+![[Pasted image 20230801092243.png]]
